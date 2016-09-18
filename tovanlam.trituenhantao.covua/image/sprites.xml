@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_000.png" x="502" y="377" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_001.png" x="1004" y="377" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_002.png" x="1004" y="0" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_003.png" x="502" y="1508" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_004.png" x="502" y="1131" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_005.png" x="502" y="754" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_006.png" x="1004" y="754" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_007.png" x="502" y="0" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_008.png" x="0" y="1508" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_009.png" x="0" y="1131" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_010.png" x="0" y="754" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_011.png" x="0" y="377" width="500" height="375"/>
+	<SubTexture name="tumblr_m5sxcoERjk1rsj0y6o1_500_012.png" x="0" y="0" width="500" height="375"/>
+</TextureAtlas>
